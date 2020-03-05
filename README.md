@@ -1,4 +1,4 @@
-# 16-07-15-
+```c
 #include "stdafx.h"
 #include "stdlib.h"
 #include "string.h"
@@ -49,3 +49,4 @@ int _tmain()
 	free(docu);
 	return 0;
 }
+```
